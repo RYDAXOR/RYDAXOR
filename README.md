@@ -80,14 +80,14 @@
 <h2 align="center">📫 Vamos Conectar!</h2>
 
 <p align="center">
-  <a href="mailto:SEU-EMAIL@exemplo.com">
+  <a href="mailto:rydaxor@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/RYDAXOR">
+  <a href="https://grafenotk.github.io/dc">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://twitter.com/RYDAXOR">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://www.youtube.com/c/RYDAXOR">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
