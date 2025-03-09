@@ -18,7 +18,7 @@
 <p align="center">
   <em>Me chamo Ruan David, desenvolvedor por diversão que cria softwares de otimização para computadores. 
   Fiquei conhecido nas redes como "ininjafps", porém infelizmente hackearam meu canal. 
-  Atualmente sou dono do projeto Grafeno Tweaking (GrafenoTK), onde continuo minha missão de ajudar as pessoas a aproveitarem ao máximo suas máquinas! 💻✨</em>
+  Atualmente sou dono do projeto <a href="https://grafenotk.xyz">Grafeno Tweaking (GrafenoTK)</a>, onde continuo minha missão de ajudar as pessoas a aproveitarem ao máximo suas máquinas! 💻✨</em>
 </p>
 
 <!-- Divisor -->
@@ -33,7 +33,7 @@
   <table align="center">
     <tr>
       <td>
-        🔹 Desenvolvo o projeto GrafenoTK de otimização para sistemas<br/>
+        🔹 Desenvolvo o projeto <a href="https://grafenotk.xyz">GrafenoTK</a> de otimização para sistemas<br/>
         🔹 Crio soluções para melhorar a eficiência de computadores<br/>
         🔹 Compartilho conhecimento sobre recursos computacionais<br/>
         🔹 Torno a tecnologia mais acessível para todos
@@ -72,6 +72,12 @@
 <p align="center">
   <a href="https://github.com/RYDAXOR/GrafenoTK">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=RYDAXOR&repo=GrafenoTK&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://grafenotk.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Site_Oficial-GrafenoTK-blue?style=for-the-badge" />
   </a>
 </p>
 
