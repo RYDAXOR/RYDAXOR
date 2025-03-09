@@ -1,6 +1,6 @@
 <!-- Título com animação -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Mundo!;Bem-vindo+ao+meu+perfil!&center=true&size=30&color=5865F2">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Sou+Ruan+David!;Bem-vindo+ao+meu+perfil!&center=true&size=30&color=5865F2">
 </h1>
 
 <!-- Banner personalizado -->
@@ -11,12 +11,14 @@
 <!-- Introdução -->
 <p align="center">
   <img src="https://img.shields.io/badge/Foco-Otimização_de_Sistemas-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projeto-GrafenoTK-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Objetivo-Ajudar_Pessoas-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Sempre_Aprendendo-red?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <em>Desenvolvedor por diversão que cria softwares de otimização para computadores com a missão de ajudar as pessoas a aproveitarem ao máximo suas máquinas! 💻✨</em>
+  <em>Me chamo Ruan David, desenvolvedor por diversão que cria softwares de otimização para computadores. 
+  Fiquei conhecido nas redes como "ininjafps", porém infelizmente hackearam meu canal. 
+  Atualmente sou dono do projeto Grafeno Tweaking (GrafenoTK), onde continuo minha missão de ajudar as pessoas a aproveitarem ao máximo suas máquinas! 💻✨</em>
 </p>
 
 <!-- Divisor -->
@@ -31,8 +33,8 @@
   <table align="center">
     <tr>
       <td>
-        🔹 Desenvolvo ferramentas de otimização de desempenho<br/>
-        🔹 Crio soluções para melhorar a eficiência do sistema<br/>
+        🔹 Desenvolvo o projeto GrafenoTK de otimização para sistemas<br/>
+        🔹 Crio soluções para melhorar a eficiência de computadores<br/>
         🔹 Compartilho conhecimento sobre recursos computacionais<br/>
         🔹 Torno a tecnologia mais acessível para todos
       </td>
@@ -68,11 +70,8 @@
 <h2 align="center">🔭 Projetos em Destaque</h2>
 
 <p align="center">
-  <a href="https://github.com/RYDAXOR/projeto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RYDAXOR&repo=projeto1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/RYDAXOR/projeto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RYDAXOR&repo=projeto2&theme=tokyonight" />
+  <a href="https://github.com/RYDAXOR/GrafenoTK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RYDAXOR&repo=GrafenoTK&theme=tokyonight" />
   </a>
 </p>
 
